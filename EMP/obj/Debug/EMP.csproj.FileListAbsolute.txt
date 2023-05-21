@@ -1,0 +1,91 @@
+C:\Users\Hassaan Raza\Documents\Visual Studio 2017\Projects 2K18\EMP_solution\EMP\bin\Debug\EMP.exe.config
+C:\Users\Hassaan Raza\Documents\Visual Studio 2017\Projects 2K18\EMP_solution\EMP\bin\Debug\EMP.exe
+C:\Users\Hassaan Raza\Documents\Visual Studio 2017\Projects 2K18\EMP_solution\EMP\bin\Debug\EMP.pdb
+C:\Users\Hassaan Raza\Documents\Visual Studio 2017\Projects 2K18\EMP_solution\EMP\obj\Debug\EMP.csprojResolveAssemblyReference.cache
+C:\Users\Hassaan Raza\Documents\Visual Studio 2017\Projects 2K18\EMP_solution\EMP\obj\Debug\EMP.MainForm.resources
+C:\Users\Hassaan Raza\Documents\Visual Studio 2017\Projects 2K18\EMP_solution\EMP\obj\Debug\EMP.Properties.Resources.resources
+C:\Users\Hassaan Raza\Documents\Visual Studio 2017\Projects 2K18\EMP_solution\EMP\obj\Debug\EMP.csproj.GenerateResource.Cache
+C:\Users\Hassaan Raza\Documents\Visual Studio 2017\Projects 2K18\EMP_solution\EMP\obj\Debug\EMP.csproj.CoreCompileInputs.cache
+C:\Users\Hassaan Raza\Documents\Visual Studio 2017\Projects 2K18\EMP_solution\EMP\obj\Debug\EMP.exe
+C:\Users\Hassaan Raza\Documents\Visual Studio 2017\Projects 2K18\EMP_solution\EMP\obj\Debug\EMP.pdb
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\bin\Debug\EMP.exe.config
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\bin\Debug\EMP.exe
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\bin\Debug\EMP.pdb
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\EMP.csprojResolveAssemblyReference.cache
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\EMP.MainForm.resources
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\EMP.Properties.Resources.resources
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\EMP.csproj.GenerateResource.cache
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\EMP.csproj.CoreCompileInputs.cache
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\EMP.exe
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\EMP.pdb
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\bin\Debug\MACTrackBarLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\EMP.csproj.ResolveComReference.cache
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\EMP.csproj.CopyComplete
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\bin\Debug\ColorSlider.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\bin\Debug\Interop.MSVidCtlLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\Interop.MSVidCtlLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\bin\Debug\MaterialSkin.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\EMP.Forms.PlaylistForm.resources
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP_solution\EMP\obj\Debug\EMP.Settings.SettingsForm.resources
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\bin\Debug\EMP.exe.config
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\bin\Debug\EMP.exe
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\bin\Debug\EMP.pdb
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\bin\Debug\ColorSlider.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\bin\Debug\MACTrackBarLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\bin\Debug\Interop.MSVidCtlLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\EMP.csprojResolveAssemblyReference.cache
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\Interop.MSVidCtlLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\EMP.csproj.ResolveComReference.cache
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\EMP.MainForm.resources
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\EMP.Forms.PlaylistForm.resources
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\EMP.Properties.Resources.resources
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\EMP.Settings.SettingsForm.resources
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\EMP.csproj.GenerateResource.cache
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\EMP.csproj.CoreCompileInputs.cache
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\EMP.csproj.CopyComplete
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\EMP.exe
+C:\Users\Hassaan Raza\Desktop\Current Projects\Data Structure\EMP\EMP_solution\EMP\obj\Debug\EMP.pdb
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\bin\Debug\EMP.exe.config
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\bin\Debug\EMP.exe
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\bin\Debug\EMP.pdb
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\bin\Debug\ColorSlider.dll
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\bin\Debug\MACTrackBarLib.dll
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\bin\Debug\Interop.MSVidCtlLib.dll
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\bin\Debug\Interop.WMPLib.dll
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\bin\Debug\AxInterop.MSVidCtlLib.dll
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\bin\Debug\AxInterop.WMPLib.dll
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\EMP.csprojAssemblyReference.cache
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\Interop.MSVidCtlLib.dll
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\Interop.WMPLib.dll
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\AxInterop.MSVidCtlLib.dll
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\AxInterop.WMPLib.dll
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\EMP.csproj.ResolveComReference.cache
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\EMP.MainForm.resources
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\EMP.Forms.PlaylistForm.resources
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\EMP.Properties.Resources.resources
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\EMP.Settings.SettingsForm.resources
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\EMP.csproj.GenerateResource.cache
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\EMP.csproj.CoreCompileInputs.cache
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\EMP.csproj.CopyComplete
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\EMP.exe
+D:\WAR WORK 19\C#\Final Projects\Data Structure\The Project\EMP\EMP_solution\EMP\obj\Debug\EMP.pdb
